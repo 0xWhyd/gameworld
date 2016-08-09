@@ -1,0 +1,8 @@
+//En la tapa del Script:
+new sureños;
+
+//Bajo OnGameModeInit
+sureños = GangZoneCreate(1747.465332, -2164.077880, 2019.465332, -1916.077880);
+
+//Bajo OnPlayerSpawn
+GangZoneShowForPlayer(playerid, sureños, 65477);

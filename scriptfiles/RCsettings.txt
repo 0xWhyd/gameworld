@@ -1,0 +1,8 @@
+AllowBandit=1
+AllowCam=1
+AllowTiger=1
+AllowBarron=1
+AllowGoblin=1
+AllowRaider=1
+AllowTankShooting=1
+MaxSpawnedRCCars=50
